@@ -1,0 +1,22 @@
+.description {
+  margin-top: 2rem;
+  text-align: left;
+  line-height: 1rem;
+}
+
+.summary {
+  margin-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  line-height: 1.5rem;
+  text-align: left;
+}
+
+.btn a,
+.btn a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.genres {
+  list-style: circle;
+}

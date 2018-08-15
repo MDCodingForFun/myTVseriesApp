@@ -1,0 +1,6 @@
+.searchComponent input {
+  width: 20rem;
+  border-radius: 4px;
+  padding: 0.5rem;
+  border: 1px solid lightgray;
+}

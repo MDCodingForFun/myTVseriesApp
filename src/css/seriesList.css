@@ -1,0 +1,27 @@
+.seriesList {
+  padding: 1rem;
+  margin: auto;
+}
+.listItem {
+  display: grid;
+  grid-template-rows: auto auto;
+  justify-content: center;
+  width: 15%;
+  margin-bottom: 1rem;
+}
+.serieslist-row {
+  justify-content: center;
+}
+.seriesName {
+  color: black;
+}
+.no_image {
+  width: 210px;
+  height: 295px;
+  padding-top: 5rem;
+  border: 1px solid lightgray;
+}
+
+.no_image img {
+  width: 5rem;
+}
